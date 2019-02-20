@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PetSearchDemo</string>
+    <string name="error_load_movies">Cannot load movies</string>
+    <string name="by_popular_movies">Sort by Popular Movies</string>
+    <string name="by_top_rated">Sort by Top Rated Movies</string>
+    <string name="by_favorite">Show by Favorite Movies</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="plot_synopsis">Plot Synopsis</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="by">By</string>
+    <string name="no_trailers">No Trailers</string>
+    <string name="no_reviews">No Reviews</string>
+    <string name="favorite">Favorite</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="defaultLaunguge">EN</string>
+</resources>
